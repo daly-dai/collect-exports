@@ -1,5 +1,5 @@
 {
-  "name": "collect-import",
+  "name": "collect-exports",
   "type": "module",
   "version": "0.0.1",
   "packageManager": "pnpm@7.2.1",
@@ -7,12 +7,12 @@
   "author": "dalydai <2508291029@qq.com.>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/daly-dai",
-  "homepage": "https://github.com/daly-dai/collect-import#readme",
+  "homepage": "https://github.com/daly-dai/collect-exports#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daly-dai/collect-import.git"
+    "url": "git+https://github.com/daly-dai/collect-exports.git"
   },
-  "bugs": "https://github.com/daly-dai/collect-import/issues",
+  "bugs": "https://github.com/daly-dai/collect-exports/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {

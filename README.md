@@ -1,6 +1,6 @@
-# collect-import
+# collect-exports
 
-[![NPM version](https://img.shields.io/npm/v/collect-import?color=a1b858&label=)](https://www.npmjs.com/package/collect-import)
+[![NPM version](https://img.shields.io/npm/v/collect-exports?color=a1b858&label=)](https://www.npmjs.com/package/collect-exports)
 
 ## Sponsors
 
