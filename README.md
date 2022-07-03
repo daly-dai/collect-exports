@@ -29,8 +29,10 @@ exports === ["ref", "KeepAlive", ...]
 
 
 
-**本插件是根据anthony Fu的视频实现， 只为自己记录用**
+**本插件是根据anthony Fu的视频实现， 本插件只为自己记录用**
+###
 [视频地址](https://www.bilibili.com/video/BV1Z34y1H7fJ?spm_id_from=333.999.0.0)
+###
 [源包地址](https://www.npmjs.com/package/pkg-exports)
 
 ## License
